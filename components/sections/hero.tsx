@@ -70,7 +70,7 @@ export default function Hero() {
                   <span className="absolute inline-flex h-full w-full rounded-full bg-accent opacity-50"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-accent"></span>
                 </span>
-                Built on U2U Network • Sub-second finality
+                Built on ARBITRUM Network • Sub-second finality
               </div>
             </Badge>
 
@@ -80,7 +80,7 @@ export default function Hero() {
 
             <p className="text-pretty max-w-prose text-base leading-relaxed text-muted-foreground md:text-lg">
               Proplex enables fractional ownership of premium RWAs like real estate, private equity, and infrastructure
-              via ERC-3643, featuring U2U-only settlements, automated yield sharing, and DAO-based governance.
+              via ERC-3643, featuring ARBITRUM-only settlements, automated yield sharing, and DAO-based governance.
             </p>
 
             <div className="flex flex-wrap items-center gap-3 mt-2">
@@ -174,15 +174,27 @@ export default function Hero() {
         <div className="mt-16 pt-8 border-t border-border">
           <p className="text-center text-sm text-muted-foreground mb-6">In Association with</p>
           <div className="flex items-center justify-center gap-6 sm:gap-8 flex-nowrap">
-            <img
+            {/* <img
               src="/images/hackquest.jpg"
               alt="HackQuest"
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
+            /> */}
+            <img
+              src="/images/arb.png"
+              alt="Arbitrum"
+              className="h-6 sm:h-8 md:h-10 w-auto object-contain"
+              loading="lazy"
             />
             <img
-              src="/images/u2u-network.png"
-              alt="U2U Network"
+              src="/images/namaste-arbitrum.jpg"
+              alt="Namaste Arbitrum"
+              className="h-6 sm:h-8 md:h-10 w-auto object-contain"
+              loading="lazy"
+            />
+            <img
+              src="/images/web3compass.jpg"
+              alt="Web3Compass"
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
             />

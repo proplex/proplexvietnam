@@ -8,12 +8,12 @@ const FEATURES = [
     body: "Divide RWAs into compliant Asset Tokens using ERC‑3643 (T‑REX) with regulated transfers.",
   },
   {
-    title: "U2U‑Only Settlements",
-    body: "Transparent, fast, and low‑cost operations with U2U as the settlement currency.",
+    title: "Arbitrum‑Only Settlements",
+    body: "Transparent, fast, and low‑cost operations with ARB as the settlement currency.",
   },
   {
     title: "Automated Yield",
-    body: "Smart contracts distribute rental income and profits in U2U directly to holders.",
+    body: "Smart contracts distribute rental income and profits in ARB directly to holders.",
   },
   {
     title: "Native Liquidity",
@@ -39,7 +39,7 @@ export default function Features() {
             Everything you need to launch and scale tokenized RWAs
           </h2>
           <p className="mt-4 max-w-prose text-base leading-relaxed text-muted-foreground md:text-lg">
-            From compliant token issuance to automated yield and secondary-market liquidity—all on the U2U Network.
+            From compliant token issuance to automated yield and secondary-market liquidity—all on the Arbitrum Network.
           </p>
         </div>
 

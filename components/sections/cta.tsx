@@ -43,7 +43,7 @@ export default function Cta() {
                   Ready to tokenize your first asset?
                 </h2>
                 <p className="text-lg text-primary-foreground/80 leading-relaxed mb-8">
-                  Launch compliant Asset Tokens, automate yield distribution, and unlock global liquidity on the U2U
+                  Launch compliant Asset Tokens, automate yield distribution, and unlock global liquidity on the ARB
                   Network. Join leading institutions already building on Proplex.
                 </p>
               </div>

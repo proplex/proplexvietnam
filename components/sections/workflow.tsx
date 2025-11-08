@@ -12,13 +12,13 @@ const STEPS = [
   },
   {
     title: "Tokenization & Sale",
-    body: "Assets are fractionalized into ERC‑3643 Asset Tokens; ONCHAINID verifies investors; primary sales settle in U2U.",
+    body: "Assets are fractionalized into ERC‑3643 Asset Tokens; ONCHAINID verifies investors; primary sales settle in ARB.",
     icon: Coins,
     color: "from-[#FF9900] to-[#FFb424]",
   },
   {
     title: "Investment & Yield",
-    body: "Investors purchase tokens using U2U; returns are distributed automatically on‑chain.",
+    body: "Investors purchase tokens using ARB; returns are distributed automatically on‑chain.",
     icon: TrendingUp,
     color: "from-[#337AB7] to-[#003366]",
   },

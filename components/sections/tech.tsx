@@ -5,7 +5,7 @@ import { Network, FileCode, Shield, Lock, ChevronRight } from "lucide-react"
 
 const STACK = [
   {
-    title: "U2U Network",
+    title: "ARBITRUM Network",
     body: "DAG‑based architecture with Helios consensus for sub‑second finality, high throughput, and low fees.",
     icon: Network,
     color: "from-[#003366] to-[#337AB7]",
