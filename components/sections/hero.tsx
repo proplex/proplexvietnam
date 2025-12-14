@@ -174,24 +174,24 @@ export default function Hero() {
         <div className="mt-16 pt-8 border-t border-border">
           <p className="text-center text-sm text-muted-foreground mb-6">In Association with</p>
           <div className="flex items-center justify-center gap-6 sm:gap-8 flex-nowrap">
-            {/* <img
-              src="/images/hackquest.jpg"
+            <img
+              src="/images/storyy.png"
               alt="HackQuest"
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
-            /> */}
+            />
             <img
               src="/images/arb.png"
               alt="Arbitrum"
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
             />
-            <img
+            {/* <img
               src="/images/namaste-arbitrum.jpg"
               alt="Namaste Arbitrum"
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
-            />
+            /> */}
             <img
               src="/images/web3compass.jpg"
               alt="Web3Compass"
