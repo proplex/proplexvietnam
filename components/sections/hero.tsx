@@ -180,12 +180,12 @@ export default function Hero() {
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
             />
-            <img
+            {/* <img
               src="/images/arb.png"
               alt="Arbitrum"
               className="h-6 sm:h-8 md:h-10 w-auto object-contain"
               loading="lazy"
-            />
+            /> */}
             {/* <img
               src="/images/namaste-arbitrum.jpg"
               alt="Namaste Arbitrum"
