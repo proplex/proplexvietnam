@@ -139,14 +139,14 @@ export default function Cta() {
               </a>
             </div>
 
-            <div className="flex items-center gap-4 text-xs">
+            {/* <div className="flex items-center gap-4 text-xs">
               <a href="#" className="hover:text-accent transition-colors">
                 Privacy Policy
               </a>
               <a href="#" className="hover:text-accent transition-colors">
                 Terms of Service
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
