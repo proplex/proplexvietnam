@@ -70,7 +70,7 @@ export default function Hero() {
                   <span className="absolute inline-flex h-full w-full rounded-full bg-accent opacity-50"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-accent"></span>
                 </span>
-                Built on ARBITRUM Network • Sub-second finality
+                Built on STORY Protocol • Sub-second finality
               </div>
             </Badge>
 
@@ -80,7 +80,7 @@ export default function Hero() {
 
             <p className="text-pretty max-w-prose text-base leading-relaxed text-muted-foreground md:text-lg">
               Proplex enables fractional ownership of premium RWAs like real estate, private equity, and infrastructure
-              via ERC-3643, featuring ARBITRUM-only settlements, automated yield sharing, and DAO-based governance.
+              via ERC-3643, featuring STORY Protocol only settlements, automated yield sharing, and DAO-based governance.
             </p>
 
             <div className="flex flex-wrap items-center gap-3 mt-2">

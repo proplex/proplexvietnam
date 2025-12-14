@@ -39,7 +39,7 @@ export default function Features() {
             Everything you need to launch and scale tokenized RWAs
           </h2>
           <p className="mt-4 max-w-prose text-base leading-relaxed text-muted-foreground md:text-lg">
-            From compliant token issuance to automated yield and secondary-market liquidity—all on the Arbitrum Network.
+            From compliant token issuance to automated yield and secondary-market liquidity—all on the STORY Protocol.
           </p>
         </div>
 
