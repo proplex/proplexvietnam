@@ -8,12 +8,12 @@ const FEATURES = [
     body: "Divide RWAs into compliant Asset Tokens using ERC‑3643 (T‑REX) with regulated transfers.",
   },
   {
-    title: "Arbitrum‑Only Settlements",
-    body: "Transparent, fast, and low‑cost operations with ARB as the settlement currency.",
+    title: "Story Protocol‑Only Settlements",
+    body: "Transparent, fast, and low‑cost operations with STORY Protocol as the settlement currency.",
   },
   {
     title: "Automated Yield",
-    body: "Smart contracts distribute rental income and profits in ARB directly to holders.",
+    body: "Smart contracts distribute rental income and profits in STORY (IP) directly to holders.",
   },
   {
     title: "Native Liquidity",
